@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/cbs-il",
   "title": "Cbs Il",
   "description": "Israel Central Bureau of Statistics (CBS / הלשכה המרכזית לסטטיסטיקה) MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/cbs-il",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-cbs-il",
