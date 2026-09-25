@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cbs-il",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Israel Central Bureau of Statistics (CBS / הלשכה המרכזית לסטטיסטיקה) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-48e73ae913f4bc3853eb9c76c4377b9178910924f0f992bf17b6ca691158b248",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-f93400174550b0b9fde2a61281626fc87e9670ab9871053e71e5e104d486d37c",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
